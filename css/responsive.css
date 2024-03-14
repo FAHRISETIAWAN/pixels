@@ -139,7 +139,7 @@
   .fancy-feature-four .bg-wrapper {padding-top: 90px;}
   .block-style-four {padding: 25px 15px 35px;}
   .block-style-four .icon {height: 40px;}
-  .block-style-four h5 {font-size: 22px; margin: 25px 0 20px;}
+  .block-style-four h5 {font-size: 12px; margin: 25px 0 20px;}
   .block-style-four .more-btn {bottom: 25px;}
   .feedback-section-two {padding: 120px 0 100px;}
   .feedback-block-two {padding: 20px 20px 30px;}
@@ -163,6 +163,7 @@
   .fancy-short-banner-one .shape-two {bottom: -16px;}
   .theme-basic-footer .newsletter form {height: 60px; margin-bottom: 0;}
   .theme-basic-footer .newsletter form button {width: 100px;}
+  .copy-button {width: 100px;}
   .theme-basic-footer .newsletter p {padding-bottom: 0;}
   .hero-banner-one .slogan,.hero-banner-four .slogan {font-size: 14px; padding: 3px 10px;}
   .hero-banner-one .slogan i,.hero-banner-four .slogan i {line-height: 20px; margin-left: 0; width: 25px; font-size: 10px;}

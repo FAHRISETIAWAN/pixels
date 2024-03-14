@@ -1752,6 +1752,32 @@ body .btn-eight:hover {
   color: #fff;
   transition: all 0.3s ease-in-out;
 }
+
+/* CSS */
+.copy-button {
+  font-size: 16px;
+  font-family: 'Pixeled';
+  position: absolute;
+  height:60px;
+  right: 10px;
+  top: 50%;
+  width: 115px;
+  transform: translateY(-50%);
+  border-radius: 8px;
+  background: var(--prime-one);
+  color: #fff;
+  transition: all 0.3s ease-in-out;
+  cursor:pointer;
+}
+
+.input-group-meta {
+  position: relative;
+}
+
+.copy-button:hover {background: var(--prime-two);}
+
+/* Other CSS styles */
+
 .theme-basic-footer .newsletter form button:hover {background: var(--prime-two);}
 .theme-basic-footer .newsletter .info {font-size: 14px;color: #979797;}
 .theme-basic-footer.footer-style-one.bg-color .bottom-footer {border-top: 1px solid #e5ebf5;}
@@ -1963,13 +1989,13 @@ body .btn-eight:hover {
 .block-style-four .icon img {max-height: 100%;}
 .block-style-four h5 {
   font-family: 'Pixeled';
-  font-size: 24px;
+  font-size: 16px;
   color: var(--heading);
   margin: 52px 0 30px;
   transition: all 0.3s ease-in-out;
 }
 .block-style-four h5:hover {text-decoration: underline;}
-.block-style-four p {font-size: 17px; line-height: 30px; margin-bottom: 24px;}
+.block-style-four p {font-size: 14px; line-height: 30px; margin-bottom: 24px;}
 .block-style-four .more-btn {
   position: absolute;
   bottom: 42px;
