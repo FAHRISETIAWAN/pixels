@@ -391,7 +391,7 @@ body .btn-one {
   letter-spacing: 0.6px;
   padding: 0 45px;
   position: relative;
-  background: var(--prime-one);
+  background: #161616;
   z-index: 1;
   transition: all 0.3s ease-in-out;
 }
@@ -538,7 +538,7 @@ body .btn-eight {
   line-height: 48px;
   border-radius: 5px;
   padding: 0 40px;
-  background: var(--prime-three);
+  background: #161616;
   position: relative;
   z-index: 1;
   transition: all 0.3s ease-in-out;
@@ -758,7 +758,7 @@ body .btn-eight:hover {
   width: 200px;
   line-height: 55px;
   color: #fff;
-  background: var(--prime-three);
+  background: #161616;
   text-align: center;
   border-radius: 9px;
   transition: all 0.3s ease-in-out;
