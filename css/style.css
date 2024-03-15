@@ -716,10 +716,10 @@ body .btn-eight:hover {
   font-size: 15px;
   transition: all 0.3s ease-in-out;
 }
-.theme-main-menu .lang-dropdown .dropdown-item:hover {background: var(--prime-one); color: #fff;}
+.theme-main-menu .lang-dropdown .dropdown-item:hover {background: var(--prime-one); color: #161616;}
 .theme-main-menu.theme-menu-two .login-btn {margin-right: 80px;}
 /*^^^^^^^^^^^^^^^^^^^^^ Theme Menu Three ^^^^^^^^^^^^^^^^^^^^^^^^*/
-.theme-menu-three .navbar .navbar-nav .nav-link {color: #fff;}
+.theme-menu-three .navbar .navbar-nav .nav-link {color: #161616;}
 .theme-menu-three .navbar .navbar-nav .nav-item.active .nav-link,
 .theme-menu-three .navbar .navbar-nav .nav-item:hover .nav-link {color: var(--prime-two);}
 .theme-main-menu.theme-menu-three .menu-search-btn,
@@ -1143,12 +1143,12 @@ body .btn-eight:hover {
   color: #fff;
 }
 /*.counter-block-one.color-two .main-count {color: var(--prime-three);}*/
-.bg-color .counter-block-one .main-count {color: #fff;}
+.bg-color .counter-block-one .main-count {color: #161616;}
 .counter-block-one p {
   font-size: 18px;
   line-height: 27px;
 }
-.bg-color .counter-block-one p {color: rgba(255, 255, 255, 0.8);}
+.bg-color .counter-block-one p {color: #161616;}
 .counter-section-one.fancy-bg {margin-top: -150px;}
 .counter-section-one.fancy-bg .counter-block-one:before,
 .counter-section-one .inner-container.no-bg .counter-block-one:before,
