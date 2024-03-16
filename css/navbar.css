@@ -58,8 +58,8 @@
 .theme-menu-three .navbar-toggler::after,.theme-menu-three .navbar-toggler span {background: var(--prime-one);}
 .navbar .navbar-nav .nav-link {
 	font-family: 'Pixeled';
-	font-size: 12px;
-	letter-spacing: -0.2px;
+	font-size: 8px;
+	letter-spacing: -0.1px;
 	line-height: initial;
 	color: #161616;
 	padding: 15px 0;

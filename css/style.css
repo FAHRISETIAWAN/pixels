@@ -579,15 +579,29 @@ body .btn-eight:hover {
   padding-top: 35px;
   padding-bottom: 35px;
   transition: all 0.4s ease-out;
+  text-align:center;
+  display: flex; /* Add display flex */
+  justify-content: center; /* Horizontal alignment */
+  align-items: center; /* Vertical alignment */
+  margin: 0 auto; /* Center the menu horizontally */
 }
 .theme-main-menu.sticky-menu.fixed {
   position: fixed;
+  width:70%;
   z-index: 990;
   padding-top: 5px; 
   padding-bottom: 5px;
   background: #e1fd38;
+  border-radius: 60px;
   box-shadow: 0 13px 35px -12px rgb(149 149 149 / 5%);
+  text-align:center;
+  display: flex; /* Add display flex */
+  justify-content: center; /* Horizontal alignment */
+  align-items: center; /* Vertical alignment */
+  margin: 0 auto; /* Center the menu horizontally */
 }
+
+
 .theme-main-menu .inner-content {position: relative;}
 /*.theme-main-menu .login-btn {margin-right: 35px;}
 .theme-main-menu .login-btn span {
@@ -754,13 +768,13 @@ body .btn-eight:hover {
 .theme-menu-four.sticky-menu.fixed:before {display: none;}
 .theme-main-menu .send-msg-btn {
   font-family: 'Pixeled';
-  font-size: 18px;
-  width: 200px;
-  line-height: 55px;
+  font-size: 10px;
+  width: 120px;
+  line-height: 45px;
   color: #fff;
   background: #161616;
   text-align: center;
-  border-radius: 9px;
+  border-radius: 50px;
   transition: all 0.3s ease-in-out;
 }
 .theme-main-menu .send-msg-btn:hover {background: var(--prime-one);}
@@ -1138,7 +1152,7 @@ body .btn-eight:hover {
 .counter-block-one.color-two:before {background: var(--prime-three);}
 .counter-block-one .main-count {
   font-family: 'Pixeled';
-  font-size: 60px;
+  font-size: 30px;
   line-height: initial;
   color: #fff;
 }
@@ -3199,7 +3213,7 @@ body .btn-eight:hover {
 .pricing-table-area-two .info {line-height: 33px;text-align: center;}
 /*^^^^^^^^^^^^^^^^^^^^^ Fancy Short Banner Three ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .fancy-short-banner-three {
-  background: #3a1389;
+  background: #666666;
   padding: 75px 0 80px;
   text-align: center;
   z-index: 1;
@@ -3211,7 +3225,7 @@ body .btn-eight:hover {
   height: 100%;
   top: 0;
   left: 0;
-  background: url(../images/assets/bg_08.svg) no-repeat center;
+  background: #666666;
   background-size: cover;
   z-index: -1;
   opacity: 0.6;
