@@ -533,9 +533,9 @@ body .btn-seven:hover {
 }
 body .btn-eight {
   font-family: 'Pixeled';
-  font-size: 17px;
+  font-size: 35px;
   color: #fff;
-  line-height: 48px;
+  line-height: 68px;
   border-radius: 5px;
   padding: 0 40px;
   background: #161616;
@@ -543,6 +543,9 @@ body .btn-eight {
   z-index: 1;
   transition: all 0.3s ease-in-out;
 }
+
+
+
 body .btn-eight:hover {
   background: var(--prime-one);
 }
