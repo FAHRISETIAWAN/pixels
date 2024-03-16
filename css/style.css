@@ -37,8 +37,8 @@
 
 
 @font-face {
-  font-family: "Pixeled";
-  src: url("../fonts/Pixeled.ttf") format("truetype");
+  font-family: "gorditabold";
+  src: url("../fonts/gorditabold.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -173,7 +173,7 @@
 /*^^^^^^^^^^^^^^^^^^^^ Global Prefix ^^^^^^^^^^^^^^^^^^^^^*/
 .main-page-wrapper {overflow-x:hidden;}
 body {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-weight: normal;
   font-size: 20px;
   position: relative;
@@ -187,8 +187,8 @@ body {
 .h2,h2 {font-size: 52px;}
 .h3,h3 {font-size: 36px;}
 .h4,h4 {font-size: 24px;}
-.h5,h5 {font-size: 24px; font-family: 'Pixeled';}
-.h6,h6 {font-size: 20px; font-family: 'Pixeled';}
+.h5,h5 {font-size: 24px; font-family: 'gorditabold';}
+.h6,h6 {font-size: 20px; font-family: 'gorditabold';}
 ::-webkit-input-placeholder {color: rgba(255,255,255, 0.6);}
 :-ms-input-placeholder { color: rgba(255,255,255, 0.6);}
 ::placeholder {color: rgba(255,255,255, 0.6);}
@@ -253,7 +253,7 @@ body {
   margin-bottom: 14px;
 }
 .title-style-one .sc-title-three {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   display: inline-block;
   line-height: 30px;
   border-radius: 20px;
@@ -275,7 +275,7 @@ body {
 .title-style-one .sub-title {font-size: 21px; line-height: 1.65em;}
 .title-style-one.white-vr .sub-title {color: rgba(255, 255, 255, 0.8);}
 .title-style-one .sc-title-five {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   display: inline-block;
   line-height: 28px;
   border-radius: 5px;
@@ -288,7 +288,7 @@ body {
   margin-bottom: 12px
 }
 .title-style-one .main-title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 30px;
   line-height: 2.34em;
   letter-spacing: -1px;
@@ -303,7 +303,7 @@ body {
   margin-bottom: 2px;
 }
 .title-style-two .main-title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 72px;
   line-height: 1.15em;
   color: #fff;
@@ -315,7 +315,7 @@ body {
   padding-top: 25px;
 }
 .title-style-three .main-title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 60px;
   line-height: 1.31em;
   letter-spacing: -1px;
@@ -339,7 +339,7 @@ body {
   margin-bottom: 20px;
 }
 .title-style-four .main-title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 50px;
   line-height: 1.4em;
   letter-spacing: -1px;
@@ -351,7 +351,7 @@ body {
   text-decoration-thickness: 4px;
 }
 .title-style-five .main-title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 45px;
   line-height: 1.22em;
   letter-spacing: -1px;
@@ -382,7 +382,7 @@ body {
   transition: all 0.5s ease-in-out;
 }
 body .btn-one {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 18px;
   text-transform: capitalize;
   color: #fff;
@@ -431,7 +431,7 @@ body .btn-three:before {
   background: rgba(255, 255, 255, 0.5);
 }
 body .btn-three a {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   color: #fff;
   transition: all 0.3s ease-in-out;
 }
@@ -460,7 +460,7 @@ body .btn-three.rev a:hover,
 body .btn-three.color-three a:hover {color: var(--prime-two);}
 body .btn-three.color-three a i {background: var(--prime-three);}
 body .btn-four {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 18px;
   text-transform: capitalize;
   color: #fff;
@@ -475,7 +475,7 @@ body .btn-four {
 body .btn-four i{ font-size: 12px; margin-left: 4px; vertical-align: 1px; }
 body .btn-four:hover {background: var(--prime-two);}
 body .btn-five {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 17px;
   text-transform: capitalize;
   color: #fff;
@@ -489,7 +489,7 @@ body .btn-five {
 }
 body .btn-five:hover {background: var(--prime-two);}
 body .btn-six {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 17px;
   color: #fff;
   line-height: 48px;
@@ -515,7 +515,7 @@ body .btn-six:after {
 }
 body .btn-six:hover:after {opacity: 1;}
 body .btn-seven {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 17px;
   color: #fff;
   line-height: 48px;
@@ -532,7 +532,7 @@ body .btn-seven:hover {
   color: #fff;
 }
 body .btn-eight {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 35px;
   color: #fff;
   line-height: 68px;
@@ -608,7 +608,7 @@ body .btn-eight:hover {
 .theme-main-menu .inner-content {position: relative;}
 /*.theme-main-menu .login-btn {margin-right: 35px;}
 .theme-main-menu .login-btn span {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 18px;
   margin: 0 0 0 12px;
   transition: all 0.3s ease-in-out;
@@ -616,7 +616,7 @@ body .btn-eight:hover {
 }
 .theme-main-menu .login-btn:hover span {text-decoration: underline;}*/
 .theme-main-menu .req-demo-btn {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 17px;
   line-height: 53px;
   color: var(--prime-two);
@@ -660,7 +660,7 @@ body .btn-eight:hover {
   position: relative; 
 }
 .theme-search-form form input {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   width: 100%;
   height: 100%;
   display: block;
@@ -680,7 +680,7 @@ body .btn-eight:hover {
 .theme-main-menu.sticky-menu.fixed .top-header {display: none;}
 .theme-menu-two .top-header {padding-bottom: 30px;}
 .theme-main-menu .get-in-touch-btn {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 18px;
   width: 190px;
   line-height: 50px;
@@ -695,7 +695,7 @@ body .btn-eight:hover {
   background: transparent;
 }
 .theme-main-menu .call-button {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 17px;
 }
 .theme-main-menu .call-button a {
@@ -705,7 +705,7 @@ body .btn-eight:hover {
   transition: all 0.3s ease-in-out;
 }
 .theme-main-menu .lang-dropdown button {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   color: #6B839A;
   font-size: 16px;
   border: none;
@@ -770,7 +770,7 @@ body .btn-eight:hover {
 }
 .theme-menu-four.sticky-menu.fixed:before {display: none;}
 .theme-main-menu .send-msg-btn {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 10px;
   width: 120px;
   line-height: 45px;
@@ -841,7 +841,7 @@ body .btn-eight:hover {
 .hero-banner-one .slogan:hover i {background: var(--prime-one);}
 .hero-banner-one .hero-heading {
   font-size: 82px;
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   line-height: 1.18em;
   margin: 42px 0 55px;
   letter-spacing: -1px;
@@ -926,7 +926,7 @@ body .btn-eight:hover {
   z-index: 1;
 }
 .hero-banner-one .illustration-holder h6 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 20px;
   line-height: 1.35em;
   margin: 0;
@@ -996,7 +996,7 @@ body .btn-eight:hover {
 .block-style-one .icon {height: 112px;}
 .block-style-one .icon img {max-height: 100%;}
 .block-style-one h5 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 24px;
   line-height: 1.66em;
   letter-spacing: 0.5px;
@@ -1005,7 +1005,7 @@ body .btn-eight:hover {
 /*^^^^^^^^^^^^^^^^^^^^^ Feature Section Two ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .fancy-feature-two {z-index: 3;}
 .block-style-two ul.list-item li {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 12px;
   line-height: 1.7em;
   color: #fff;
@@ -1154,7 +1154,7 @@ body .btn-eight:hover {
 }
 .counter-block-one.color-two:before {background: var(--prime-three);}
 .counter-block-one .main-count {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 30px;
   line-height: initial;
   color: #fff;
@@ -1250,13 +1250,13 @@ body .btn-eight:hover {
   width: 100%;
 }
 .block-style-three h6 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 21px;
   margin-bottom: 16px;
 }
 .block-style-three p {font-size: 18px; line-height: 29px;}
 .block-style-three .numb {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 20px;
   color: var(--prime-two);
   text-align: center;
@@ -1325,7 +1325,7 @@ body .btn-eight:hover {
   color: rgba(255, 255, 255, 0.5);
 }
 .portfolio-block-one .title .pj-name {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 22px;
   color: var(--heading);
 }
@@ -1410,7 +1410,7 @@ body .btn-eight:hover {
   text-align: center;
 }
 .pricing-table-area-one .pr-table-wrapper .pack-name {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 32px;
   color: #fff;
   letter-spacing: -1px;
@@ -1431,7 +1431,7 @@ body .btn-eight:hover {
   text-align: left;
 }
 .pricing-table-area-one .top-banner .price {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 48px;
   color: var(--prime-two);
   padding-right: 20px;
@@ -1441,7 +1441,7 @@ body .btn-eight:hover {
   top: -0.8em;
 }
 .pricing-table-area-one .top-banner span {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 22px;
   display: block;
   color: #fff;
@@ -1467,7 +1467,7 @@ body .btn-eight:hover {
   margin-top: 30px;
 }
 .pricing-table-area-one .trial-button span {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   color: #fff;
   transition: all 0.3s ease-in-out;
 }
@@ -1486,7 +1486,7 @@ body .btn-eight:hover {
   line-height: 1.64em;
   color: #fff;
 }
-.pricing-table-area-one .msg-note a {font-family: 'Pixeled'; text-decoration: underline; color: #fff;}
+.pricing-table-area-one .msg-note a {font-family: 'gorditabold'; text-decoration: underline; color: #fff;}
 /*^^^^^^^^^^^^^^^^^^^^^ Feedback Slider One ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .feedback_slider_one .slick-dots {
   position: absolute;
@@ -1537,7 +1537,7 @@ body .btn-eight:hover {
 }
 .feedback-block-one .cost {
   font-size: 18px;
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
 }
 .feedback-block-one .cost span {color: #fff;}
 .slick-center .feedback-block-one {
@@ -1631,7 +1631,7 @@ body .btn-eight:hover {
 }
 .blog-meta-one .post-tag a {color: #fff; transition: all 0.3s ease-in-out;}
 .blog-meta-one .blog-title h5 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 25px;
   letter-spacing: -0.5px;
   color: var(--heading);
@@ -1687,7 +1687,7 @@ body .btn-eight:hover {
 .address-block-one.border-right {border-right: 1px solid rgba(255, 255, 255, 0.15);}
 .address-block-one .text-meta {padding-left: 40px;}
 .address-block-one .text-meta .title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 24px; 
   margin-bottom: 10px;
 }
@@ -1709,7 +1709,7 @@ body .btn-eight:hover {
 .footer-style-one.bg-color {background: #F8FBFF; padding-top: 200px;}
 .theme-basic-footer .inner-wrapper {max-width: 1170px; margin: 0 auto;}
 .theme-basic-footer .footer-title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 24px;
   margin-bottom: 20px;
 }
@@ -1759,7 +1759,7 @@ body .btn-eight:hover {
 .theme-basic-footer .newsletter form button {
   position: absolute;
   font-size: 16px;
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   top: 8px;
   right: 8px;
   bottom: 8px;
@@ -1773,7 +1773,7 @@ body .btn-eight:hover {
 /* CSS */
 .copy-button {
   font-size: 16px;
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   position: absolute;
   height:60px;
   right: 10px;
@@ -1826,7 +1826,7 @@ body .btn-eight:hover {
   letter-spacing: -2px;
 }
 .hero-banner-two .demo-btn {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 18px;
   color: #fff;
   padding: 0 35px;
@@ -1900,7 +1900,7 @@ body .btn-eight:hover {
   padding: 20px 5px;
 }
 .hero-banner-two .illustration-holder .card-one h6 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 20px;
   margin: 0 0 0 15px;
 }
@@ -1926,7 +1926,7 @@ body .btn-eight:hover {
   width: 175px;
 }
 .hero-banner-two .illustration-holder .card-two .main-count {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 24px;
   color: var(--heading);
   line-height: initial;
@@ -2005,7 +2005,7 @@ body .btn-eight:hover {
 .block-style-four .icon {height: 52px;}
 .block-style-four .icon img {max-height: 100%;}
 .block-style-four h5 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 14px;
   color: var(--heading);
   margin: 52px 0 30px;
@@ -2138,7 +2138,7 @@ body .btn-eight:hover {
   color: #fff;
 }
 .feedback-block-two .text-wrapper .read-btn span {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 17px;
   color: var(--heading);
 }
@@ -2150,7 +2150,7 @@ body .btn-eight:hover {
   background: rgba(68, 109, 255, 0.15);
 }
 .block-style-five .codeconSkillbar .skill-text span {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 1.4px;
@@ -2162,7 +2162,7 @@ body .btn-eight:hover {
 }
 .block-style-five .codeconSkillbar .skillBar {height: 100%; border-radius: 30px;}
 .block-style-five .codeconSkillbar .skillBar .PercentText {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   width: 40px;
   background: #FFFFFF;
   color: rgba(21, 21, 21, 0.5);
@@ -2235,7 +2235,7 @@ body .btn-eight:hover {
   font-size: 17px;
 }
 .block-style-six h6 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 20px;
   margin: 25px 0 20px;
 }
@@ -2299,7 +2299,7 @@ body .btn-eight:hover {
   background: #fff;
 }
 .feedback-block-three .text-wrapper .name h6 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   margin-bottom: 0;
 }
 .feedback-block-three .text-wrapper .name span {font-size: 16px; display: block;}
@@ -2371,7 +2371,7 @@ body .btn-eight:hover {
   border: none;
 }
 .accordion-style-one .accordion-button {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 15px;
   line-height: 1.62em;
   padding: 23px 20px 23px 35px;
@@ -2435,7 +2435,7 @@ body .btn-eight:hover {
 }
 .blog-meta-two .post-tag a:hover {text-decoration: underline;}
 .blog-meta-two .blog-title h5 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 25px;
   color: var(--heading);
   line-height: 1.44em;
@@ -2445,7 +2445,7 @@ body .btn-eight:hover {
 }
 .blog-meta-two .blog-title:hover h5 {text-decoration: underline;}
 .blog-meta-two .read-btn {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 17px;
   color: rgba(255, 255, 255, 0.5);
 }
@@ -2480,13 +2480,13 @@ body .btn-eight:hover {
   text-transform: uppercase;
 }
 .fancy-short-banner-one h3 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 37px;
   line-height: 1.38em;
   margin: 0 0 0;
 }
 .fancy-short-banner-one .msg-btn {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 18px;
   color: #fff;
   padding: 0 40px;
@@ -2601,7 +2601,7 @@ body .btn-eight:hover {
 .block-style-seven .icon {height: 70px;}
 .block-style-seven .icon img {max-height: 100%;}
 .block-style-seven h5 a {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 25px;
   color: var(--heading);
   margin: 30px 0 8px;
@@ -2687,7 +2687,7 @@ body .btn-eight:hover {
   margin: 0 auto;
 }
 .block-style-eight .icon .num {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 17px;
   color: #fff;
   width: 45px;
@@ -2703,7 +2703,7 @@ body .btn-eight:hover {
   z-index: 1;
 }
 .block-style-eight h5 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 25px;
   line-height: 1.4em;
   color: #fff;
@@ -2766,7 +2766,7 @@ body .btn-eight:hover {
   animation: jumpThree 6s infinite linear;
 }
 .fancy-feature-twelve .illustration-holder .card-one h6 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 20px;
   margin: 0;
 }
@@ -2796,7 +2796,7 @@ body .btn-eight:hover {
   animation: jumpTwo 6s infinite linear;
 }
 .fancy-feature-twelve .illustration-holder .card-two .main-count {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 28px;
   color: var(--heading);
   line-height: initial;
@@ -2869,7 +2869,7 @@ body .btn-eight:hover {
   line-height: initial;
 }
 .fancy-short-banner-two .button-group a strong {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-weight: normal;
   font-size: 19px;
   display: block;
@@ -2954,7 +2954,7 @@ body .btn-eight:hover {
 .hero-banner-four .slogan:hover i {background: var(--prime-one);}
 .hero-banner-four .hero-heading {
   font-size: 75px;
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   line-height: 1.14em;
   margin: 42px 0 45px;
   letter-spacing: -1px;
@@ -2979,7 +2979,7 @@ body .btn-eight:hover {
   padding: 0 190px 0 30px;
 }
 .hero-banner-four form button {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 16px;
   color: #fff;
   position: absolute;
@@ -3045,7 +3045,7 @@ body .btn-eight:hover {
 .block-style-ten .icon {height: 54px;}
 .block-style-ten .icon img {max-height: 100%;}
 .block-style-ten h6 a {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 21px;
   color: var(--heading);
   margin: 25px 0 18px;
@@ -3108,7 +3108,7 @@ body .btn-eight:hover {
   margin: 0 auto;
 }
 .block-style-eleven .icon .num {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 17px;
   color: #fff;
   width: 45px;
@@ -3145,7 +3145,7 @@ body .btn-eight:hover {
   background: rgba(68, 109, 255, 0.15);
 }
 .fancy-feature-sixteen .codeconSkillbar .skill-text span {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 17px;
   color: var(--heading);
   float:none;
@@ -3160,7 +3160,7 @@ body .btn-eight:hover {
   background: linear-gradient(89.99deg, #FF9466 0%, #FF43E1 107.18%);
 }
 .fancy-feature-sixteen .codeconSkillbar .skillBar .PercentText {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   width: 40px;
   background: rgba(255, 255, 255, 0.1);
   box-shadow: 0px 5px 20px rgba(0, 28, 99, 0.08);
@@ -3189,7 +3189,7 @@ body .btn-eight:hover {
   color: rgba(255, 255, 255, 0.8);
 }
 .pricing-table-area-two .price {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 64px;
   color: #fff;
   line-height: initial;
@@ -3206,7 +3206,7 @@ body .btn-eight:hover {
   color: rgba(255, 255, 255, 0.8);
 }
 .pricing-table-area-two .pr-table-wrapper.active {background: #6a2fdf;}
-.pricing-table-area-two .active .pack-name {font-family: 'Pixeled'; color: #fff;}
+.pricing-table-area-two .active .pack-name {font-family: 'gorditabold'; color: #fff;}
 .pricing-table-area-two .active .price,
 .pricing-table-area-two .active .pr-feature li {color: #fff;}
 .pricing-table-area-two .active .btn-seven {
@@ -3240,7 +3240,7 @@ body .btn-eight:hover {
   padding: 220px 0 100px;
 }
 .hero-banner-five .hero-heading {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 55px;
   line-height: 2em;
   flex-direction: column;
@@ -3253,7 +3253,7 @@ body .btn-eight:hover {
   text-decoration-thickness: 5px;
 }
 .hero-banner-five .demo-btn {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 18px;
   color: #fff;
   line-height: 55px;
@@ -3343,7 +3343,7 @@ body .btn-eight:hover {
 .block-style-twelve .icon {height: 45px;}
 .block-style-twelve .icon img {max-height: 100%;}
 .block-style-twelve h5 a {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 25px;
   color: var(--heading);
   margin: 30px 0 8px;
@@ -3465,8 +3465,8 @@ body .btn-eight:hover {
   border-radius: 10px;
 }
 .block-style-thirteen .list-item li h6 {
-  font-family: 'Pixeled';
-  font-size: 12px;
+  font-family: 'gorditabold';
+  font-size: 16px;
   line-height:20px
 }
 .block-style-thirteen .list-item .numb {
@@ -3594,7 +3594,7 @@ body .btn-eight:hover {
   margin: 25px 0 38px;
 }
 .feedback-block-four .cp-info h6 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 22px;
   margin-bottom: -5px;
 }
@@ -3668,7 +3668,7 @@ body .btn-eight:hover {
   box-shadow: 0px 10px 20px rgba(0, 33, 63, 0.03);
 }
 .theme-basic-footer .subscribe-form form button {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 18px;
   color: #fff;
   width: 150px;
@@ -3706,7 +3706,7 @@ body .btn-eight:hover {
   animation: jumpThree 3s infinite linear;
 }
 .theme-inner-banner .intro-title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 60px;
   letter-spacing: -0.8px;
   margin-bottom: 15px;
@@ -3814,7 +3814,7 @@ body .btn-eight:hover {
   line-height: initial;
 }
 .team-block-one .team-info .name {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   display: block;
   font-size: 21px;
   color: var(--heading);
@@ -3828,7 +3828,7 @@ body .btn-eight:hover {
   padding: 40px 50px 40px 70px;
 }
 .team-details .main-bg .text-wrapper .name {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 33px; 
   color: var(--heading);
 }
@@ -3839,7 +3839,7 @@ body .btn-eight:hover {
   line-height: initial;
 }
 .team-details .main-bg .text-wrapper h6 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 19px;
   padding-bottom: 8px;
   text-transform: uppercase;
@@ -3921,14 +3921,14 @@ body .btn-eight:hover {
   border-radius: 20px;
 }
 .fancy-short-banner-five h3 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   color: #fff;
   font-size: 44px;
   line-height: 1.25em;
   margin: 0 0 0;
 }
 .fancy-short-banner-five .msg-btn {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 18px;
   color: #fff;
   padding: 0 38px;
@@ -3963,7 +3963,7 @@ body .btn-eight:hover {
   background: rgba(145, 59, 255, 0.15);
 }
 .service-sidebar .service-category .current-page a {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   color: #fff;
   background: rgba(145, 59, 255, 0.15);
 }
@@ -3986,14 +3986,14 @@ body .btn-eight:hover {
   margin: 7px 0 13px;
 }
 .sidebar-quote .name {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 19px;
   letter-spacing: -0.5px;
   color: #fff;
 }
 .sidebar-quote .name span {font-family: 'gorditaregular';}
 .service-sidebar .download-btn-group a {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 17px;
   line-height: 60px;
   width: 100%;
@@ -4017,7 +4017,7 @@ body .btn-eight:hover {
 .service-sidebar .download-btn-group a:hover i {background: var(--prime-three); color: #fff;}
 .service-sidebar .download-btn-group a:hover {color: var(--prime-three);}
 .service-details-meta .main-title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 60px;
   line-height: 1.2em;
   letter-spacing: -1px;
@@ -4026,7 +4026,7 @@ body .btn-eight:hover {
 .service-details-meta p {font-size: 18px;line-height: 35px;}
 .service-details-meta .main-img-meta {border-radius: 20px; margin: 35px 0 55px;}
 .service-details-meta .sub-title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 28px;
   margin-bottom: 20px;
 }
@@ -4053,7 +4053,7 @@ body .btn-eight:hover {
   padding: 22px 35px 18px;
 }
 .block-style-fifteen h6 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 22px;
   margin: 0;
 }
@@ -4063,7 +4063,7 @@ body .btn-eight:hover {
   margin: 5px 0 10px;
 }
 .block-style-fifteen .text .details-btn {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 17px;
   color: #fff;
 }
@@ -4118,7 +4118,7 @@ body .btn-eight:hover {
   border-radius: 50%;
 }
 .block-style-fifteen .percent_text {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   color: #fff;
   position: absolute;
   font-size: 20px;
@@ -4141,7 +4141,7 @@ body .btn-eight:hover {
   transition: all 0.3s ease-in-out;
 }
 .g-control-nav-one li.is-checked {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   color: var(--prime-three);
   background: rgba(145, 59, 255, 0.1);
 }
@@ -4200,7 +4200,7 @@ body .btn-eight:hover {
   color: rgba(255, 255, 255, 0.5);
 }
 .portfolio-block-two .title .pj-name {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 22px;
   color: var(--heading);
 }
@@ -4234,7 +4234,7 @@ body .btn-eight:hover {
 .pr-details-one .social-icon li:last-child a {margin-right: 0;}
 .pr-details-one .social-icon a:hover {background: rgba(145, 59, 255, 0.15);}
 .pr-details-one .sub-title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 28px;
   margin-bottom: 20px;
 }
@@ -4244,7 +4244,7 @@ body .btn-eight:hover {
   line-height: 2.11em; 
 }
 .pr-details-one .pt-title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -4252,7 +4252,7 @@ body .btn-eight:hover {
   color: #fff;
 }
 .pr-details-one .pt-text {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 18px;
   line-height: 1.55em;
 }
@@ -4339,7 +4339,7 @@ body .btn-eight:hover {
 .blog-sidebar .sidebar-keyword ul {margin: 0 -3px;}
 .blog-sidebar .sidebar-keyword ul li {float: left;padding: 0 3px; margin-bottom: 7px;}
 .blog-sidebar .sidebar-keyword ul li a {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 13px;
   letter-spacing: 1px;
   background: #666666;
@@ -4366,7 +4366,7 @@ body .btn-eight:hover {
 .blog-meta-three .post-tag {font-size: 16px;color: #AAAAAA;}
 .blog-meta-three .post-tag a {color: #fff; transition: all 0.3s ease-in-out;}
 .blog-meta-three .blog-title h4 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 33px;
   letter-spacing: -0.5px;
   color: var(--heading);
@@ -4386,14 +4386,14 @@ body .btn-eight:hover {
 .blog-details .blog-meta-three p {margin-bottom: 40px;}
 .blog-details .blog-meta-three h5 {margin-bottom: 18px; letter-spacing: -0.5px;}
 .blog-details .tags li:first-child {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   color: #fff;
   padding-right: 5px;
 }
 .blog-details .tags li {font-size: 17px; color: rgba(255, 255, 255, 0.5);}
 .blog-details .tags li a:hover {color: #fff; text-decoration: underline;}
 .blog-details .share-icon li:first-child {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   color: #fff;
   font-size: 17px;
 }
@@ -4416,7 +4416,7 @@ body .btn-eight:hover {
   box-shadow: 0px 20px 60px rgba(0, 73, 140, 0.04);
 }
 .blog-details .blog-inner-title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 42px;
   letter-spacing: -1px;
 }
@@ -4431,7 +4431,7 @@ body .btn-eight:hover {
   position: relative;
 }
 .blog-comment-area .comment .name {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 20px;
   color: var(--heading);
   letter-spacing: -1px;
@@ -4447,7 +4447,7 @@ body .btn-eight:hover {
   padding: 8px 50px 0 0;
 }
 .blog-comment-area .comment .reply-btn {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 13px;
   color: #fff;
   text-transform: uppercase;
@@ -4527,7 +4527,7 @@ body .btn-eight:hover {
 }
 .contact-section-one .address-block-two .icon img {width: 38px;}
 .contact-section-one .address-block-two .title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 24px;
   padding: 20px 0 14px;
   margin-bottom: 0;
@@ -4549,7 +4549,7 @@ body .btn-eight:hover {
   color: #dd6761;
 }
 #contact-form .form-group .help-block ul {margin-bottom: 0;}
-.form-style-one .form-title {font-family: 'Pixeled'; font-size: 25px;}
+.form-style-one .form-title {font-family: 'gorditabold'; font-size: 25px;}
 .form-style-one form label {
   display: block;
   line-height: initial;
@@ -4594,7 +4594,7 @@ body .btn-eight:hover {
 .faq-list-item li a:hover,
 .faq-list-item li.active a {color: #fff;}
 .faq-section-one .faq-title {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 33px;
   margin-bottom: 30px;
 }
@@ -4611,7 +4611,7 @@ body .btn-eight:hover {
   right: 0;
 }
 .error-page-content h2 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 43px;
   letter-spacing: -1px;
 }
@@ -4647,7 +4647,7 @@ body .btn-eight:hover {
 }
 .user-data-page .go-back-button {
   font-size: 15px; 
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   line-height: 43px;
   width: 142px;
   text-align: center;
@@ -4660,7 +4660,7 @@ body .btn-eight:hover {
   background: #fff;
 }
 .user-data-page .form-wrapper h2 {
-  font-family: 'Pixeled';
+  font-family: 'gorditabold';
   font-size: 55px;
   line-height: 1.17em;
 }

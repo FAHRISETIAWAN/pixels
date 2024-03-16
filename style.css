@@ -3669,7 +3669,7 @@ p {
 }
 
 .list-item {
-  font-family: Depixelklein, sans-serif;
+  font-family: gorditabold;
   list-style-type: none;
 }
 
@@ -3688,7 +3688,7 @@ p {
   color: var(--white);
   text-align: center;
   padding-left: 0;
-  font-family: Depixelklein, sans-serif;
+  font-family: gorditabold;
   font-size: 30px;
   line-height: 70px;
   list-style-type: none;
